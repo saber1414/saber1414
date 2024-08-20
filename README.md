@@ -38,7 +38,6 @@ const aboutMe = [
 <ul style="list-style="none" ">
   <li>
     <p dir="auto">📫 How to reach me: <strong><a href="saber.esmaili1414@gmail.com">saber.esmaili1414@gmail.com</a></strong></p>
-    <p> 📞 me phone: +989333943645</p>
   </li>
 </ul>
 
