@@ -21,10 +21,10 @@ const aboutMe = [
 ## 🌐 Socials:
 
 <div>
-  <a href="http://instagram.com/saber14140">
+  <a href="https://instagram.com/saber14140">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="http://telegram.com/saber14140">
+  <a href="https://telegram.org/saber14140">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://twitter.com/saber1414">
@@ -38,6 +38,7 @@ const aboutMe = [
 <ul style="list-style="none" ">
   <li>
     <p dir="auto">📫 How to reach me: <strong><a href="saber.esmaili1414@gmail.com">saber.esmaili1414@gmail.com</a></strong></p>
+    <p> 📞 me phone: +989333943645</p>
   </li>
 </ul>
 
