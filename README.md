@@ -21,7 +21,7 @@ const aboutMe = [
 ## 🌐 Socials:
 
 <div>
-  <a href="https://instagram.com/saber14140">
+  <a href="https://instagram.com/saber__dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://t.me/saber14140">
