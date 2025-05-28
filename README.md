@@ -1,5 +1,5 @@
 <h2 align="center">Front-End Developer</h2>
-<img align="center" src="https://lottiefiles.com/free-animation/coding-qXEFuZeffj" />
+<img align="center" src="[https://lottiefiles.com/free-animation/coding-qXEFuZeffj](https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)" />
 <h1>🧒🏽 About Me:</h1>
 
 - 🔭 Front-End developer specializing in React.js
